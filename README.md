@@ -1,0 +1,2 @@
+# szosszenetek
+Egészségbiztosítási szösszenetek oldala
